@@ -15,7 +15,7 @@ A REST API built with Node.js and Express.js connected to a PostgreSQL database.
 ## Getting Started
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/user-api.git
+git clone https://github.com/detechguy48-cloud/user-database.git
 cd user-api
 
 ### 2. Install dependencies
