@@ -35,6 +35,10 @@ DB_NAME=userdb
 DB_PASSWORD=your_password_here
 DB_PORT=5432
 
+npm init -y
+npm install express pg dotenv
+
+
 ### 5. Start the server
 node index.js
 
